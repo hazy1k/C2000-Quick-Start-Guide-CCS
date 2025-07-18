@@ -1,0 +1,58 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "1.GPIO",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "1.GPIO",
+                "resourceId": "/1.GPIO"
+            },
+            "connections": [
+                {
+                    "name": "Texas Instruments XDS110 USB Debug Probe_0",
+                    "cores": [
+                        {
+                            "name": "C28xx_CPU1",
+                            "debuggerSettings": {
+                                "data": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\" ?>\n<PropertyValues/>\n"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "2.SYSClock",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "2.SYSClock",
+                "resourceId": "/2.SYSClock"
+            },
+            "connections": [
+                {
+                    "name": "Texas Instruments XDS110 USB Debug Probe_0",
+                    "cores": [
+                        {
+                            "name": "C28xx_CPU1",
+                            "debuggerSettings": {
+                                "data": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\" ?>\n<PropertyValues/>\n"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "3.EXTI",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "3.EXTI",
+                "resourceId": "/3.EXTI"
+            }
+        }
+    ]
+}
