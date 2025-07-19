@@ -1,0 +1,8 @@
+{
+    "interruptInfo" : [
+        {
+            "interruptName": "INT_User_KEY_XINT",
+            "interruptHandler": "INT_User_KEY_XINT_ISR"
+        }
+    ]
+}

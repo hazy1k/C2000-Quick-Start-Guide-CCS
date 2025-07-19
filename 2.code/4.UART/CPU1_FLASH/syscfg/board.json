@@ -1,0 +1,8 @@
+{
+    "interruptInfo" : [
+        {
+            "interruptName": "INT_User_UART_RX",
+            "interruptHandler": "INT_User_UART_RX_ISR"
+        }
+    ]
+}
