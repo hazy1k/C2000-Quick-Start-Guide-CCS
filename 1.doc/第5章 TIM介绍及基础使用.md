@@ -159,7 +159,7 @@ void main(void)
 
     while(1)
     {
-        
+
     }
 }
 
@@ -172,7 +172,6 @@ __interrupt void INT_User_TIM0_ISR(void)
 //
 // End of File
 //
-
 ```
 
 ## 3. 相关函数介绍
@@ -262,5 +261,3 @@ static inline bool CPUTimer_getTimerOverflowStatus(uint32_t base);
 ```
 
 ---
-
-
