@@ -36,6 +36,15 @@
                 "name": "4.UART",
                 "resourceId": "/4.UART"
             }
+        },
+        {
+            "name": "5.TIM",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "5.TIM",
+                "resourceId": "/5.TIM"
+            }
         }
     ]
 }
