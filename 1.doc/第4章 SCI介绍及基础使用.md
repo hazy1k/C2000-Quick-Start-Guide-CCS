@@ -106,7 +106,6 @@ __interrupt void INT_User_UART_RX_ISR(void)
     SCI_clearInterruptStatus(SCIA_BASE, SCI_INT_RXFF);
     Interrupt_clearACKGroup(INTERRUPT_ACK_GROUP9);
 }
-
 ```
 
 ## 3. 相关函数介绍
@@ -194,5 +193,3 @@ size_t strlen(const char *str);
 ```
 
 ---
-
-
