@@ -76,6 +76,72 @@
                     ]
                 }
             ]
+        },
+        {
+            "name": "8.IIC",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "8.IIC",
+                "resourceId": "/8.IIC"
+            },
+            "connections": [
+                {
+                    "name": "Texas Instruments XDS110 USB Debug Probe_0",
+                    "cores": [
+                        {
+                            "name": "C28xx_CPU1",
+                            "debuggerSettings": {
+                                "data": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\" ?>\n<PropertyValues/>\n"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "8.I2C",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "8.I2C",
+                "resourceId": "/8.I2C"
+            },
+            "connections": [
+                {
+                    "name": "Texas Instruments XDS110 USB Debug Probe_0",
+                    "cores": [
+                        {
+                            "name": "C28xx_CPU1",
+                            "debuggerSettings": {
+                                "data": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\" ?>\n<PropertyValues/>\n"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "9.SPI",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "9.SPI",
+                "resourceId": "/9.SPI"
+            },
+            "connections": [
+                {
+                    "name": "Texas Instruments XDS110 USB Debug Probe_0",
+                    "cores": [
+                        {
+                            "name": "C28xx_CPU1",
+                            "debuggerSettings": {
+                                "data": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\" ?>\n<PropertyValues/>\n"
+                            }
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
