@@ -1,0 +1,27 @@
+[
+   {
+      "directory" : "E:/StudyNote/study_C2000/2.code/3.EXTI/CPU1_FLASH",
+      "command"   : "clang++ -I\"E:/StudyNote/study_C2000/2.code/3.EXTI\" -I\"E:/TI/sdk/C2000Ware_5_05_00_00\" -I\"E:/StudyNote/study_C2000/2.code/3.EXTI/device\" -I\"E:/TI/sdk/C2000Ware_5_05_00_00/driverlib/f28p55x/driverlib/\" -I\"E:/TI/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_FLASH -I\"E:/StudyNote/study_C2000/2.code/3.EXTI/CPU1_FLASH/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "E:/StudyNote/study_C2000/2.code/3.EXTI/CPU1_FLASH/syscfg/board.c"
+   },
+   {
+      "directory" : "E:/StudyNote/study_C2000/2.code/3.EXTI/CPU1_FLASH",
+      "command"   : "clang++ -I\"E:/StudyNote/study_C2000/2.code/3.EXTI\" -I\"E:/TI/sdk/C2000Ware_5_05_00_00\" -I\"E:/StudyNote/study_C2000/2.code/3.EXTI/device\" -I\"E:/TI/sdk/C2000Ware_5_05_00_00/driverlib/f28p55x/driverlib/\" -I\"E:/TI/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_FLASH -I\"E:/StudyNote/study_C2000/2.code/3.EXTI/CPU1_FLASH/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "E:/StudyNote/study_C2000/2.code/3.EXTI/CPU1_FLASH/syscfg/c2000ware_libraries.c"
+   },
+   {
+      "directory" : "E:/StudyNote/study_C2000/2.code/3.EXTI/CPU1_FLASH",
+      "command"   : "clang++ -I\"E:/StudyNote/study_C2000/2.code/3.EXTI\" -I\"E:/TI/sdk/C2000Ware_5_05_00_00\" -I\"E:/StudyNote/study_C2000/2.code/3.EXTI/device\" -I\"E:/TI/sdk/C2000Ware_5_05_00_00/driverlib/f28p55x/driverlib/\" -I\"E:/TI/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_FLASH -I\"E:/StudyNote/study_C2000/2.code/3.EXTI/CPU1_FLASH/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "E:/StudyNote/study_C2000/2.code/3.EXTI/device/device.c"
+   },
+   {
+      "directory" : "E:/StudyNote/study_C2000/2.code/3.EXTI/CPU1_FLASH",
+      "command"   : "clang++ -I\"E:/StudyNote/study_C2000/2.code/3.EXTI\" -I\"E:/TI/sdk/C2000Ware_5_05_00_00\" -I\"E:/StudyNote/study_C2000/2.code/3.EXTI/device\" -I\"E:/TI/sdk/C2000Ware_5_05_00_00/driverlib/f28p55x/driverlib/\" -I\"E:/TI/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_FLASH -I\"E:/StudyNote/study_C2000/2.code/3.EXTI/CPU1_FLASH/syscfg\" -DF28P55x=1",
+      "file"      : "E:/StudyNote/study_C2000/2.code/3.EXTI/device/f28p55x_codestartbranch.asm"
+   },
+   {
+      "directory" : "E:/StudyNote/study_C2000/2.code/3.EXTI/CPU1_FLASH",
+      "command"   : "clang++ -I\"E:/StudyNote/study_C2000/2.code/3.EXTI\" -I\"E:/TI/sdk/C2000Ware_5_05_00_00\" -I\"E:/StudyNote/study_C2000/2.code/3.EXTI/device\" -I\"E:/TI/sdk/C2000Ware_5_05_00_00/driverlib/f28p55x/driverlib/\" -I\"E:/TI/ccs/tools/compiler/ti-cgt-c2000_22.6.2.LTS/include\" -DDEBUG -D_FLASH -I\"E:/StudyNote/study_C2000/2.code/3.EXTI/CPU1_FLASH/syscfg\" -DF28P55x=1 -xc",
+      "file"      : "E:/StudyNote/study_C2000/2.code/3.EXTI/empty_driverlib_main.c"
+   }
+]
