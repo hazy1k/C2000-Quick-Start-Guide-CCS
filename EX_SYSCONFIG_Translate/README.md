@@ -1,6 +1,6 @@
 # SYSTEM
 
-- [ ] ALO
+- [x] ALO
 
 - [ ] CLA
 
